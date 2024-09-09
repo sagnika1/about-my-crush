@@ -1,0 +1,24 @@
+body {background-color: #91DDCF;}
+
+hr {background-color: none;
+border-style: dotted none none;
+height: 0px;
+border-color: black;
+border-width: 3px;
+width: 20%;}
+
+.crush { height: 300px; border-radius: 50%; background-color: rgb(233, 222, 207);}
+
+img:hover{
+background-color: bisque;
+}
+
+
+
+h1{color: #EE4E4E;}
+
+/*.#head { background-color: black;}*/      /* id selector*/
+
+h2{color: #F4538A;}
+
+h3{color: #F4538A;}
